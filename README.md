@@ -16,6 +16,12 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 ![topruntimesmoves](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/87674bdf-649e-460b-a9f6-3c1e5585d163)
 ![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/686c68de-57bd-4392-a0d3-3e08a6e1cb7e)
 
+### Released year x Number of movies
+![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/773e38cd-6a1a-41c2-b296-988aed430829)
+
+Distribution of Top 5 Movie Certificates
+![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/ea1c3529-76dd-4d8e-85e8-f7e5e64142c1)
+
 ### Movie Recomendation Application
 ![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/50c3466b-0d8d-4af5-9b0d-f17e4b32a89d)
 
