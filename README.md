@@ -1,10 +1,10 @@
 # IMDB-dataset
-IMDB dataset analysis with filtering, sorting, static functions
+IMDB dataset analysis with filtering, sorting, static functions.
 
 ## IMDB-kaggle-dataset
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data
 
-## IMDB-dataset visualisation with charts.
+## IMDB-dataset visualisation with Seaborn charts.
 ### Top 5 movies based on IMDB rating and Meta score
 
 ![tops](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/392642a1-c4c1-4cb2-bbaf-f55272a2aa4a)
