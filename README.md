@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 
 ### Top 10  largest runtime movies
 ![topruntimesmoves](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/87674bdf-649e-460b-a9f6-3c1e5585d163)
+![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/686c68de-57bd-4392-a0d3-3e08a6e1cb7e)
 
 ### Movie Recomendation Application
 ![Capture](https://github.com/Baiaasana/IMDB-kaggle-dataset/assets/92223568/50c3466b-0d8d-4af5-9b0d-f17e4b32a89d)
